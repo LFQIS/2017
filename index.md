@@ -10,7 +10,7 @@ A forum for novel and speculative ideas with the potential to advance quantum in
 
 ## Code of Conduct ##
 
-The Last Frontiers in Quantum Information Science Workshop is dedicated to a harassment-free workshop experience for everyone. Our anti-harassment policy can be found [here](/code-of-conduct).
+The Last Frontiers in Quantum Information Science Workshop is dedicated to a harassment-free workshop experience for everyone. Our anti-harassment policy can be found [here](code-of-conduct).
 
 ## Organizing Committee ##
 
