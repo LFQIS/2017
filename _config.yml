@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "LFQIS Organizing Committee"
 description              : "An amazing website."
 url                      : "https://lfqis.github.io/2017"
-baseurl                  : "/"
+baseurl                  : ""
 repository               : "LFQIS/2017"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -236,7 +236,6 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
     values:
       layout: single
       author_profile: false
@@ -244,3 +243,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      header:
+        overlay_filter: 0.5
+        overlay_image: /assets/images/header-overlay.jpeg
+        caption: "Photo credit: [flickr/rosyfinch](https://www.flickr.com/photos/rosyfinch/5885946346/in/photolist-9Y81My-ojEDoT-asAwds-9QDf3M-4wkg1g-8Zfh3X-oe6JF4-82Wgt-abvPpU-8qZiAW-6KNNeT-6HoqsK-9Y56Q8-o7LA1a-o7Lxn4-9Q7LFr-nQgUjy-nQi1Z2-o7Dpa5-o7F11o-asAj1w-asxTxr-9QaDCY-9Q7M1i-asxFfR-5CSXWk-9QaDrY-a9vozP-a9ybuh-hz3yCj-9QaDhS-odCE85-csjaPw-ojtpvd-6KSLxW-6KNNfP-6KNNf6-5FDktC-yKR8QM-yKKnWW-z13LYW-cX3hs5-uxx36f-nVw7As-uFVboV-wo1kwX-xENgDa-cS4tC-ykaDJZ-q4VD3)"
