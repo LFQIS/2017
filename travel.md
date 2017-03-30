@@ -5,7 +5,7 @@ title: "Travel and Activities Information"
 
 ## Flights ##
 
-We suggest either flying into Seward directly, or flying in and out of Anchorage. By car, Seward is approximately three hours from Anchorage. If there is sufficient interest, we will arrange for group transportation to and from Anchorage.
+We suggest flying in and out of Anchorage. By car, Seward is approximately three hours from Anchorage. If there is sufficient interest, we will arrange for group transportation to and from Anchorage.
 
 ## Accomodations ##
 
