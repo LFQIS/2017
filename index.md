@@ -17,3 +17,10 @@ The Last Frontiers in Quantum Information Science Workshop is dedicated to a har
 - Gavin Brennen, Macquarie University
 - Christopher Granade, University of Sydney
 - Robin Blume-Kohout, Sandia National Laboratories
+
+## Previous Years ##
+
+- [2013](http://137.229.25.28/LFQIS/)
+- [2014](http://137.229.25.28/LFQIS-2/)
+- [2015](http://137.229.25.28/LFQIS-3/)
+- [2016](http://137.229.25.28/LFQIS-4/)
